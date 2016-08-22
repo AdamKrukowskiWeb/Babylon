@@ -1,0 +1,23 @@
+{
+  "name": "babylon",
+  "version": "1.0.0",
+  "description": "3d site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamKrukowskiWeb/Babylon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamKrukowskiWeb/Babylon/issues"
+  },
+  "homepage": "https://github.com/AdamKrukowskiWeb/Babylon#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}
